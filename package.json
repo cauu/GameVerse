@@ -1,0 +1,11 @@
+{
+  "name": "GameVerse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "caiyufu <caiyufu@meituan.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
+  "workspaces": [
+    "client"
+  ]
+}
