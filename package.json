@@ -6,6 +6,7 @@
   "license": "MIT",
   "packageManager": "yarn@3.2.1",
   "workspaces": [
-    "client"
+    "client/*",
+    "demo/*"
   ]
 }
