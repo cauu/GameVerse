@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import Phaser from 'phaser'
+import React from 'react';
 
-import { Game } from './game/Game'
+import { Game } from './game/Game';
 
 function App() {
   return (
     <div>
       <Game />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
